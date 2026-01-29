@@ -1,5 +1,5 @@
 # Raspberry Pi Pico Mesh Pinger
-This is an example project demonstrating how to use the MTSimpleBroadcast library to broadcast messages over the Meshtastic network using a Raspberry Pi Pico and a LoRa radio module.
+This is an example project demonstrating how to use the [MTSimpleBroadcast](https://github.com/jrddupont/MTSimpleBroadcast) library to broadcast messages over the Meshtastic network using a Raspberry Pi Pico and a LoRa radio module.
 
 ## Example Usage
 ### Environment
